@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "EuroStile";
+  src: url(../fonts/EUROSTILE.TTF) format("truetype");
+}
+
+.record {
+  width: 100%;
+  max-width: 370px;
+}
+
+.page { 
+  font-family: "EuroStile", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.record-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.record-info {
+  margin-top: 280px;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.album {
+  font-size: 24px;
+  text-align: center;
+  width: 182px;
+}
+
+.artist {
+  font-size: 20px;
+  margin-top: 69px;
+  width: 160px;
+  text-align: center;
+}
+
+.start {
+  font-size: 40px;
+  margin-top: 30px;
+}
