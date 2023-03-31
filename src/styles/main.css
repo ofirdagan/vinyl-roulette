@@ -22,7 +22,7 @@
 }
 
 .record-info {
-  margin-top: 280px;
+  margin-top: 260px;
   position: absolute;
   width: 100%;
   display: flex;
@@ -38,7 +38,7 @@
 
 .artist {
   font-size: 20px;
-  margin-top: 69px;
+  margin-top: 80px;
   width: 160px;
   text-align: center;
 }
