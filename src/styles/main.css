@@ -3,19 +3,22 @@
   src: url(../fonts/EUROSTILE.TTF) format("truetype");
 }
 
+.record-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+
 .record {
   width: 100%;
+  max-height: 77vh;
   max-width: 370px;
 }
 
 .page { 
   font-family: "EuroStile", sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.record-container {
   display: flex;
   flex-direction: column;
   align-items: center;
