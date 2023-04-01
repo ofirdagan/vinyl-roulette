@@ -12,7 +12,10 @@ jobs:
     strategy:
       matrix:
         node-version: [16.x]
-
+     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
@@ -29,4 +32,4 @@ jobs:
         path: dist
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2    
+      uses: actions/deploy-pages@v2  
