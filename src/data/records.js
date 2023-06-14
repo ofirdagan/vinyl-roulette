@@ -1689,6 +1689,22 @@ export const records = [
     },
     {
        "artist":"ששת",
-       "album":"Sheshet"
+       "album":"Sheshet"\r"
+    },
+    {
+         "artist":"VA",
+       "album":"Baby Driver (Music From The Motion Picture)"\r"  
+    },
+    {
+         "artist":"Silk Sonic",
+       "album":"An Evening With Silk Sonic"\r"
+    },
+    {
+         "artist":"Donald Byrd",
+       "album":"Ethiopian Knights"\r"
+    },
+    {
+         "artist":"Ahmad Jamal Trio",
+       "album":"The Awakening"\r"    
     }
  ]
