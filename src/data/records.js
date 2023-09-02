@@ -1706,5 +1706,29 @@ export const records = [
     {
          "artist":"Ahmad Jamal Trio",
        "album":"The Awakening"
-    }
+    },
+    {
+         "artist":"Cal Tjader",
+       "album":"Live At The Funky Quarters"
+    },
+    {
+         "artist":"Lee Morgen",
+       "album":"The Sidewinder"
+    },
+    {
+         "artist":"Domi & JD Beck",
+       "album":"NOT TiGHT"
+    },
+    {
+         "artist":"KC And The Sunshine Band",
+       "album":"KC And The Sunshine Band"
+    },
+    {
+         "artist":"Ravi Shankar",
+       "album":"Live At The Monterey International Pop Festival"
+    },
+    {
+         "artist":"Marvin Gaye",
+       "album":"Trouble Man"
+    },
  ]
