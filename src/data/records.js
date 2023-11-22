@@ -1731,4 +1731,8 @@ export const records = [
          "artist":"Marvin Gaye",
        "album":"Trouble Man"
     },
+    {
+        "artist":"Millie Jackson",
+       "album:"Caught Up"
+    },
  ]
