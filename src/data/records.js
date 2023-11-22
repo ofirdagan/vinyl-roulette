@@ -1733,6 +1733,6 @@ export const records = [
     },
     {
         "artist":"Millie Jackson",
-       "album:"Caught Up"
-    }
+       "album:"Caught Up\r"
+    },
  ]
