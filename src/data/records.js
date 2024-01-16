@@ -1,4 +1,12 @@
 export const records = [
+      {
+       "artist":"Idris Muhammad",
+       "album":"Power Of Soul\r"
+    },
+    {
+       "artist":"Herbie Hancock",
+       "album":"Fat Albert Rotunda\r"
+    },
     {
        "artist":"10 CC",
        "album":"Sheet Music\r"
