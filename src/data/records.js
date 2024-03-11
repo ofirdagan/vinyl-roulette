@@ -1,5 +1,33 @@
 export const records = [
       {
+       "artist":"Tim Weisberg",
+       "album":"Hurtwood Edge\r"
+    },
+      {
+       "artist":"Focus",
+       "album":"In And Out Of Focus\r"
+    },
+      {
+       "artist":"The Salsoul Orchestra",
+       "album":"The Salsoul Orchestra\r"
+    },
+      {
+       "artist":"Graham Central Station",
+       "album":"Now Do U Wanta Dance\r"
+    },
+      {
+       "artist":"George Benson",
+       "album":"Bad Benson\r"
+    },
+      {
+       "artist":"Tallking Heads",
+       "album":"Fear Of Music\r"
+    },
+      {
+       "artist":"Frank Zappa",
+       "album":"Apostrophe\r"
+    },
+      {
        "artist":"Idris Muhammad",
        "album":"Power Of Soul\r"
     },
