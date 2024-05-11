@@ -1,5 +1,29 @@
 export const records = [
       {
+       "artist":"Ohio Players",
+       "album":"Honey\r"
+    },
+      {
+       "artist":"George Benson",
+       "album":"Harlem Underground\r"
+    },     
+      {
+       "artist":"The Brides Of Funkenstein",
+       "album":"Funk Or Walk\r"
+    },
+      {
+       "artist":"Earth Wind & Fire",
+       "album":"Head To The Sky\r"
+    },
+      {
+       "artist":"Hearbie Hancock",
+       "album":"Secrets\r"
+    },
+      {
+       "artist":"McDonald & Giles",
+       "album":"McDonald and Giles\r"
+    },
+      {
        "artist":"Tim Weisberg",
        "album":"Hurtwood Edge\r"
     },
