@@ -1,5 +1,17 @@
 export const records = [
       {
+       "artist":"Beastie Boys",
+       "album":"Check Your Head\r"
+    },        
+      {
+       "artist":"Parliament",
+       "album":"Mothership Connection\r"
+    },  
+      {
+       "artist":"Thundercat",
+       "album":"Apocalypse\r"
+    },  
+      {
        "artist":"Ohio Players",
        "album":"Honey\r"
     },
