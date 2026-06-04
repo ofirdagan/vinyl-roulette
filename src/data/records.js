@@ -1,5 +1,25 @@
 export const records = [
       {
+       "artist":"Junko Ohashi & Minoya Central Station",
+       "album":"Shalom\r"
+    },
+      {
+       "artist":"Cal Tjader",
+       "album":"Breathe Easy\r"
+    },
+      {
+       "artist":"You & The Explosion Band",
+       "album":"Lupin The 3rd (Original Soundtrack)\r"
+    },
+      {
+       "artist":"Airto",
+       "album":"Touching You ... Touching Me\r"
+    },     
+      {
+       "artist":"The New Rotary Connection",
+       "album":"Hey, Love\r"
+    },    
+      {
        "artist":"Beastie Boys",
        "album":"Check Your Head\r"
     },        
