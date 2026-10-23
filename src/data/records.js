@@ -1,5 +1,21 @@
 export const records = [
       {
+       "artist":"Thundercat",
+       "album":"Distracted\r"
+    }, 
+      {
+       "artist":"Serge Gainsbourg",
+       "album":"Aux Armes Et Caetera\r"
+    }, 
+      {
+       "artist":"The Undisputed Truth",
+       "album":"Face To Face With The Truth\r"
+    }, 
+      {
+       "artist":"Andre Gibson's Universal Togetherness Band",
+       "album":"Apart: Demos 1980-1984\r"
+    },
+      {
        "artist":"Junko Ohashi & Minoya Central Station",
        "album":"Shalom\r"
     },
