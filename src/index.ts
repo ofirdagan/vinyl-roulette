@@ -7,7 +7,7 @@ const album = document.querySelector('#album') as HTMLElement;
 const artist = document.querySelector('#artist') as HTMLElement;
 
 let isChoosing = false;
-let intervalId: NodeJS.Timer = null;
+let intervalId: ReturnType<typeof setInterval> = null;
 start.onclick = () => {
     isChoosing = !isChoosing;
     if (isChoosing) {
